@@ -5,8 +5,394 @@ repo: upptime-free-hosting-servers # The name of this repository
 sites:
   - name: A183
     url: $A183
+    port: 80
+    check: "tcp-ping"
   - name: A185
-    url: $A183
+    url: $A185
+    port: 80
+    check: "tcp-ping"
+  - name: H101
+    url: $H101
+    port: 80
+    check: "tcp-ping"
+  - name: H113
+    url: $H113
+    port: 80
+    check: "tcp-ping"
+  - name: H115
+    url: $H115
+    port: 80
+    check: "tcp-ping"
+  - name: H126
+    url: $H126
+    port: 80
+    check: "tcp-ping"
+  - name: H129
+    url: $H129
+    port: 80
+    check: "tcp-ping"
+  - name: H130
+    url: $H130
+    port: 80
+    check: "tcp-ping"
+  - name: H131
+    url: $H131
+    port: 80
+    check: "tcp-ping"
+  - name: H132
+    url: $H132
+    port: 80
+    check: "tcp-ping"
+  - name: H133
+    url: $H133
+    port: 80
+    check: "tcp-ping"
+  - name: H139
+    url: $H139
+    port: 80
+    check: "tcp-ping"
+  - name: H140
+    url: $H140
+    port: 80
+    check: "tcp-ping"
+  - name: H142
+    url: $H142
+    port: 80
+    check: "tcp-ping"
+  - name: H143
+    url: $H143
+    port: 80
+    check: "tcp-ping"
+  - name: H144
+    url: $H144
+    port: 80
+    check: "tcp-ping"
+  - name: H149
+    url: $H149
+    port: 80
+    check: "tcp-ping"
+  - name: H150
+    url: $H150
+    port: 80
+    check: "tcp-ping"
+  - name: H151
+    url: $H151
+    port: 80
+    check: "tcp-ping"
+  - name: H176
+    url: $H176
+    port: 80
+    check: "tcp-ping"
+  - name: H202
+    url: $H202
+    port: 80
+    check: "tcp-ping"
+  - name: H214
+    url: $H214
+    port: 80
+    check: "tcp-ping"
+  - name: H215
+    url: $H215
+    port: 80
+    check: "tcp-ping"
+  - name: H217
+    url: $H217
+    port: 80
+    check: "tcp-ping"
+  - name: H218
+    url: $H218
+    port: 80
+    check: "tcp-ping"
+  - name: H219
+    url: $H219
+    port: 80
+    check: "tcp-ping"
+  - name: H221
+    url: $H221
+    port: 80
+    check: "tcp-ping"
+  - name: H222
+    url: $H222
+    port: 80
+    check: "tcp-ping"
+  - name: H223
+    url: $H223
+    port: 80
+    check: "tcp-ping"
+  - name: H224
+    url: $H224
+    port: 80
+    check: "tcp-ping"
+  - name: H232
+    url: $H232
+    port: 80
+    check: "tcp-ping"
+  - name: H33
+    url: $H33
+    port: 80
+    check: "tcp-ping"
+  - name: H34
+    url: $H34
+    port: 80
+    check: "tcp-ping"
+  - name: H36
+    url: $H36
+    port: 80
+    check: "tcp-ping"
+  - name: H37
+    url: $H37
+    port: 80
+    check: "tcp-ping"
+  - name: H38
+    url: $H38
+    port: 80
+    check: "tcp-ping"
+  - name: H39
+    url: $H39
+    port: 80
+    check: "tcp-ping"
+  - name: H40
+    url: $H40
+    port: 80
+    check: "tcp-ping"
+  - name: H41
+    url: $H41
+    port: 80
+    check: "tcp-ping"
+  - name: H42
+    url: $H42
+    port: 80
+    check: "tcp-ping"
+  - name: H43
+    url: $H43
+    port: 80
+    check: "tcp-ping"
+  - name: H44
+    url: $H44
+    port: 80
+    check: "tcp-ping"
+  - name: H45
+    url: $H45
+    port: 80
+    check: "tcp-ping"
+  - name: H46
+    url: $H46
+    port: 80
+    check: "tcp-ping"
+  - name: H47
+    url: $H47
+    port: 80
+    check: "tcp-ping"
+  - name: H50
+    url: $H50
+    port: 80
+    check: "tcp-ping"
+  - name: H55
+    url: $H55
+    port: 80
+    check: "tcp-ping"
+  - name: H57
+    url: $H57
+    port: 80
+    check: "tcp-ping"
+  - name: H59
+    url: $H59
+    port: 80
+    check: "tcp-ping"
+  - name: H60
+    url: $H60
+    port: 80
+    check: "tcp-ping"
+  - name: H65
+    url: $H65
+    port: 80
+    check: "tcp-ping"
+  - name: H98
+    url: $H98
+    port: 80
+    check: "tcp-ping"
+  - name: T100
+    url: $T100
+    port: 80
+    check: "tcp-ping"
+  - name: T102
+    url: $T102
+    port: 80
+    check: "tcp-ping"
+  - name: T103
+    url: $T103
+    port: 80
+    check: "tcp-ping"
+  - name: T104
+    url: $T104
+    port: 80
+    check: "tcp-ping"
+  - name: T105
+    url: $T105
+    port: 80
+    check: "tcp-ping"
+  - name: T106
+    url: $T106
+    port: 80
+    check: "tcp-ping"
+  - name: T107
+    url: $T107
+    port: 80
+    check: "tcp-ping"
+  - name: T108
+    url: $T108
+    port: 80
+    check: "tcp-ping"
+  - name: T109
+    url: $T109
+    port: 80
+    check: "tcp-ping"
+  - name: T110
+    url: $T110
+    port: 80
+    check: "tcp-ping"
+  - name: T111
+    url: $T111
+    port: 80
+    check: "tcp-ping"
+  - name: T112
+    url: $T112
+    port: 80
+    check: "tcp-ping"
+  - name: T114
+    url: $T114
+    port: 80
+    check: "tcp-ping"
+  - name: T116
+    url: $T116
+    port: 80
+    check: "tcp-ping"
+  - name: T117
+    url: $T117
+    port: 80
+    check: "tcp-ping"
+  - name: T118
+    url: $T118
+    port: 80
+    check: "tcp-ping"
+  - name: T120
+    url: $T120
+    port: 80
+    check: "tcp-ping"
+  - name: T124
+    url: $T124
+    port: 80
+    check: "tcp-ping"
+  - name: T125
+    url: $T125
+    port: 80
+    check: "tcp-ping"
+  - name: T127
+    url: $T127
+    port: 80
+    check: "tcp-ping"
+  - name: T128
+    url: $T128
+    port: 80
+    check: "tcp-ping"
+  - name: T134
+    url: $T134
+    port: 80
+    check: "tcp-ping"
+  - name: T135
+    url: $T135
+    port: 80
+    check: "tcp-ping"
+  - name: T136
+    url: $T136
+    port: 80
+    check: "tcp-ping"
+  - name: T137
+    url: $T137
+    port: 80
+    check: "tcp-ping"
+  - name: T138
+    url: $T138
+    port: 80
+    check: "tcp-ping"
+  - name: T145
+    url: $T145
+    port: 80
+    check: "tcp-ping"
+  - name: T146
+    url: $T146
+    port: 80
+    check: "tcp-ping"
+  - name: T147
+    url: $T147
+    port: 80
+    check: "tcp-ping"
+  - name: T148
+    url: $T148
+    port: 80
+    check: "tcp-ping"
+  - name: T153
+    url: $T153
+    port: 80
+    check: "tcp-ping"
+  - name: T154
+    url: $T154
+    port: 80
+    check: "tcp-ping"
+  - name: T155
+    url: $T155
+    port: 80
+    check: "tcp-ping"
+  - name: T160
+    url: $T160
+    port: 80
+    check: "tcp-ping"
+  - name: T162
+    url: $T162
+    port: 80
+    check: "tcp-ping"
+  - name: T163
+    url: $T163
+    port: 80
+    check: "tcp-ping"
+  - name: T164
+    url: $T164
+    port: 80
+    check: "tcp-ping"
+  - name: T165
+    url: $T165
+    port: 80
+    check: "tcp-ping"
+  - name: T166
+    url: $T166
+    port: 80
+    check: "tcp-ping"
+  - name: T167
+    url: $T167
+    port: 80
+    check: "tcp-ping"
+  - name: T170
+    url: $T170
+    port: 80
+    check: "tcp-ping"
+  - name: T171
+    url: $T171
+    port: 80
+    check: "tcp-ping"
+  - name: T172
+    url: $T172
+    port: 80
+    check: "tcp-ping"
+  - name: T174
+    url: $T174
+    port: 80
+    check: "tcp-ping"
+  - name: T175
+    url: $T175
+    port: 80
+    check: "tcp-ping"
+  - name: T178
+    url: $T178
     port: 80
     check: "tcp-ping"
 
