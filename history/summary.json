@@ -886,19 +886,19 @@
     "url": "$H60",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "h60",
-    "status": "down",
-    "uptime": "92.58%",
-    "uptimeDay": "85.93%",
-    "uptimeWeek": "92.58%",
-    "uptimeMonth": "92.58%",
-    "uptimeYear": "92.58%",
-    "time": 101,
-    "timeDay": 102,
-    "timeWeek": 101,
-    "timeMonth": 101,
-    "timeYear": 101,
+    "status": "up",
+    "uptime": "92.05%",
+    "uptimeDay": "84.83%",
+    "uptimeWeek": "92.05%",
+    "uptimeMonth": "92.05%",
+    "uptimeYear": "92.05%",
+    "time": 103,
+    "timeDay": 105,
+    "timeWeek": 103,
+    "timeMonth": 103,
+    "timeYear": 103,
     "dailyMinutesDown": {
-      "2024-12-21": 202
+      "2024-12-21": 217
     }
   },
   {
