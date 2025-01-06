@@ -476,10 +476,10 @@
     "url": "$H221",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "h221",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 104,
@@ -487,7 +487,9 @@
     "timeWeek": 114,
     "timeMonth": 104,
     "timeYear": 104,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-06": 1
+    }
   },
   {
     "name": "H222",
@@ -893,11 +895,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "h60",
     "status": "up",
-    "uptime": "95.14%",
+    "uptime": "95.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.14%",
-    "uptimeYear": "95.14%",
+    "uptimeMonth": "95.20%",
+    "uptimeYear": "95.20%",
     "time": 120,
     "timeDay": 100,
     "timeWeek": 115,
