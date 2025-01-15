@@ -732,10 +732,10 @@
     "url": "$H43",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "h43",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 110,
@@ -743,7 +743,9 @@
     "timeWeek": 97,
     "timeMonth": 110,
     "timeYear": 110,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-15": 1
+    }
   },
   {
     "name": "H44",
@@ -840,10 +842,10 @@
     "url": "$H55",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "h55",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 103,
@@ -851,7 +853,9 @@
     "timeWeek": 97,
     "timeMonth": 103,
     "timeYear": 103,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-15": 1
+    }
   },
   {
     "name": "H57",
@@ -895,11 +899,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "h60",
     "status": "up",
-    "uptime": "96.17%",
+    "uptime": "96.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.17%",
-    "uptimeYear": "96.17%",
+    "uptimeMonth": "96.21%",
+    "uptimeYear": "96.21%",
     "time": 125,
     "timeDay": 144,
     "timeWeek": 98,
