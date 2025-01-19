@@ -1156,19 +1156,19 @@
     "url": "$T112",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "t112",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 103,
-    "timeDay": 146,
-    "timeWeek": 106,
+    "timeDay": 123,
+    "timeWeek": 105,
     "timeMonth": 103,
     "timeYear": 103,
     "dailyMinutesDown": {
-      "2025-01-19": 1
+      "2025-01-19": 11
     }
   },
   {
