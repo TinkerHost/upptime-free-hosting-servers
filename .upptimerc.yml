@@ -387,14 +387,6 @@ sites:
     url: $T174
     port: 80
     check: "tcp-ping"
-  - name: T175
-    url: $T175
-    port: 80
-    check: "tcp-ping"
-  - name: T178
-    url: $T178
-    port: 80
-    check: "tcp-ping"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
