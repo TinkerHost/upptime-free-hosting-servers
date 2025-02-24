@@ -463,19 +463,19 @@
     "url": "$H219",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "h219",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 105,
-    "timeDay": 87,
-    "timeWeek": 106,
-    "timeMonth": 109,
+    "timeDay": 85,
+    "timeWeek": 104,
+    "timeMonth": 108,
     "timeYear": 105,
     "dailyMinutesDown": {
-      "2025-02-24": 1
+      "2025-02-24": 11
     }
   },
   {
