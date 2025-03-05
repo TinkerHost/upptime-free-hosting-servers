@@ -4,28 +4,30 @@
     "url": "$A183",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "b183",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 105,
     "timeDay": 97,
     "timeWeek": 109,
     "timeMonth": 108,
     "timeYear": 105,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-05": 3
+    }
   },
   {
     "name": "A185",
     "url": "$A185",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a185",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 106,
@@ -33,7 +35,9 @@
     "timeWeek": 109,
     "timeMonth": 108,
     "timeYear": 106,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-05": 1
+    }
   },
   {
     "name": "H101",
