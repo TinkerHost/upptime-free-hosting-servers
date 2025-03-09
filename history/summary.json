@@ -950,10 +950,10 @@
     "url": "$H98",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "h98",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "90.63%",
-    "uptimeWeek": "98.66%",
+    "uptimeDay": "90.58%",
+    "uptimeWeek": "98.65%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.86%",
     "time": 109,
@@ -962,7 +962,7 @@
     "timeMonth": 114,
     "timeYear": 109,
     "dailyMinutesDown": {
-      "2025-03-09": 135,
+      "2025-03-09": 136,
       "2024-12-24": 20
     }
   },
