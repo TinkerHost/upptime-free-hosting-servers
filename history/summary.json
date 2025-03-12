@@ -852,10 +852,10 @@
     "url": "$H55",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "h55",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 106,
@@ -863,7 +863,9 @@
     "timeWeek": 108,
     "timeMonth": 105,
     "timeYear": 106,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-12": 1
+    }
   },
   {
     "name": "H57",
@@ -1145,12 +1147,12 @@
     "status": "up",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.69%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
     "time": 105,
     "timeDay": 98,
-    "timeWeek": 106,
+    "timeWeek": 107,
     "timeMonth": 105,
     "timeYear": 105,
     "dailyMinutesDown": {
@@ -1165,12 +1167,12 @@
     "status": "up",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.69%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
     "time": 105,
     "timeDay": 98,
-    "timeWeek": 106,
+    "timeWeek": 107,
     "timeMonth": 105,
     "timeYear": 105,
     "dailyMinutesDown": {
