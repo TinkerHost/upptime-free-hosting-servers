@@ -393,8 +393,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: freehostinguptime.tinkerhost.net
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  logoUrl: https://tinkerhost.net/images/tinkerhost-512-09.svg
+  name: TinkerHost Uptime Tracker
   introTitle: "TinkerHost Free Hosting Uptime"
   introMessage: Uptime center for TinkerHost free servers, powered by Upptime
   navbar:
