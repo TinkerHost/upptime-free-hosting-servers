@@ -476,7 +476,7 @@
     "time": 103,
     "timeDay": 87,
     "timeWeek": 94,
-    "timeMonth": 99,
+    "timeMonth": 100,
     "timeYear": 103,
     "dailyMinutesDown": {}
   },
@@ -932,10 +932,10 @@
     "url": "$H65",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "h65",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 104,
@@ -943,7 +943,9 @@
     "timeWeek": 94,
     "timeMonth": 100,
     "timeYear": 104,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-24": 1
+    }
   },
   {
     "name": "H98",
