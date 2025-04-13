@@ -24,11 +24,11 @@
     "url": "$A185",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a185",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 104,
     "timeDay": 87,
@@ -36,6 +36,7 @@
     "timeMonth": 99,
     "timeYear": 104,
     "dailyMinutesDown": {
+      "2025-04-13": 4,
       "2025-03-05": 42
     }
   },
@@ -339,18 +340,20 @@
     "url": "$H151",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "h151",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 104,
     "timeDay": 87,
     "timeWeek": 87,
     "timeMonth": 100,
     "timeYear": 104,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-13": 2
+    }
   },
   {
     "name": "H176",
@@ -393,10 +396,10 @@
     "url": "$H214",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "h214",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 104,
@@ -404,7 +407,9 @@
     "timeWeek": 87,
     "timeMonth": 100,
     "timeYear": 104,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-13": 1
+    }
   },
   {
     "name": "H215",
@@ -907,11 +912,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "h60",
     "status": "up",
-    "uptime": "99.10%",
+    "uptime": "99.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.61%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "99.10%",
+    "uptimeYear": "99.11%",
     "time": 117,
     "timeDay": 86,
     "timeWeek": 87,
@@ -1266,12 +1271,12 @@
     "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.76%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 104,
     "timeDay": 86,
-    "timeWeek": 88,
+    "timeWeek": 86,
     "timeMonth": 99,
     "timeYear": 104,
     "dailyMinutesDown": {
