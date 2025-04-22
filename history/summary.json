@@ -1217,10 +1217,10 @@
     "url": "$T114",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "t114",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 104,
@@ -1228,7 +1228,9 @@
     "timeWeek": 115,
     "timeMonth": 106,
     "timeYear": 104,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-22": 1
+    }
   },
   {
     "name": "T116",
