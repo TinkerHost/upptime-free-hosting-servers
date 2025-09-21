@@ -1,7 +1,7 @@
 url: $T125
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-09-21T08:02:50.881Z
+status: up
+code: 200
+responseTime: 83
+lastUpdated: 2025-09-21T08:40:04.685Z
 startTime: 2024-12-20T00:19:40.890Z
 generator: Upptime <https://github.com/upptime/upptime>
