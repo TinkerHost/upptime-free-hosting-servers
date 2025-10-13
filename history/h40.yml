@@ -1,7 +1,7 @@
 url: $H40
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-10-13T12:27:54.865Z
+status: up
+code: 200
+responseTime: 107
+lastUpdated: 2025-10-13T14:00:53.378Z
 startTime: 2024-12-20T00:19:13.458Z
 generator: Upptime <https://github.com/upptime/upptime>
