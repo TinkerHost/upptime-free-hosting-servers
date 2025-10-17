@@ -1,7 +1,7 @@
 url: $H221
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-10-17T12:54:21.261Z
+status: up
+code: 200
+responseTime: 132
+lastUpdated: 2025-10-17T14:50:31.216Z
 startTime: 2024-12-20T00:19:04.314Z
 generator: Upptime <https://github.com/upptime/upptime>
