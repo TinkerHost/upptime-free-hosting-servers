@@ -1,7 +1,7 @@
 url: $H42
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-01-21T08:43:19.596Z
+status: up
+code: 200
+responseTime: 113
+lastUpdated: 2026-01-21T10:03:23.686Z
 startTime: 2024-12-20T00:19:15.122Z
 generator: Upptime <https://github.com/upptime/upptime>
